@@ -4,11 +4,37 @@ Cybersecurity student at Loyola University Chicago pursuing a career in Security
 
 CompTIA Security+ certified with hands-on experience in network traffic analysis, vulnerability testing, and digital forensics through labs, CTF competitions, and security training platforms.
 
-Currently building cybersecurity projects focused on:
+Planning on building cybersecurity projects focused on:
 - Network traffic analysis
 - SOC investigation workflows
 - Vulnerability scanning and exploitation labs
 - Security automation with Python
+
+## Featured Projects
+
+### Backend Authentication System
+Secure authentication system built with **Node.js, Express, MongoDB, bcrypt, and JWT**.
+
+Features:
+- Password hashing
+- Token-based authentication
+- Authorization middleware
+- Secure credential storage
+
+Repository:
+https://github.com/christianromo1/Backend-Authentication-System
+
+### Web Data Scraper 
+Python web scraping framework that recursively crawls news websites and extracts structured article data for machine learning datasets. Built using Selenium browser automation, BeautifulSoup HTML parsing, and proxy-supported scraping pipelines.
+
+Technologies: 
+- Python
+- Selenium
+- BeautifulSoup
+- Requests
+- Streamlit
+
+Repository: https://github.com/christianromo1/Web-Data-Scraper
 
 ---
 
@@ -26,24 +52,11 @@ Log Analysis
 
 ---
 
-## Current Training
+## Security  Training
 
 - TryHackMe SOC Level 1 Path
 - TryHackMe Jr Penetration Tester Path
 - Capture The Flag competitions (NCL Top 8%)
-
----
-
-## Projects (Coming Soon)
-
-I am currently building several hands-on cybersecurity projects that will be published here, including:
-
-- Network traffic analysis investigations
-- SOC log analysis labs
-- Vulnerability assessment walkthroughs
-- Security automation scripts
-
-Stay tuned for updates.
 
 ---
 
