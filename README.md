@@ -1,16 +1,53 @@
-## Hi there 👋
+# Christian Romo
 
-<!--
-**christianromo1/christianromo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at Loyola University Chicago pursuing a career in Security Operations and Threat Detection.
 
-Here are some ideas to get you started:
+CompTIA Security+ certified with hands-on experience in network traffic analysis, vulnerability testing, and digital forensics through labs, CTF competitions, and security training platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building cybersecurity projects focused on:
+- Network traffic analysis
+- SOC investigation workflows
+- Vulnerability scanning and exploitation labs
+- Security automation with Python
+
+---
+
+## Skills & Tools
+
+Wireshark  
+Nmap  
+Burp Suite  
+Metasploit  
+Snort  
+Linux  
+Python  
+SIEM Concepts  
+Log Analysis
+
+---
+
+## Current Training
+
+- TryHackMe SOC Level 1 Path
+- TryHackMe Jr Penetration Tester Path
+- Capture The Flag competitions (NCL Top 8%)
+
+---
+
+## Projects (Coming Soon)
+
+I am currently building several hands-on cybersecurity projects that will be published here, including:
+
+- Network traffic analysis investigations
+- SOC log analysis labs
+- Vulnerability assessment walkthroughs
+- Security automation scripts
+
+Stay tuned for updates.
+
+---
+
+## Connect With Me
+
+LinkedIn:  
+https://linkedin.com/in/christianromo2026
