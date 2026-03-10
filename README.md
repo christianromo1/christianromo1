@@ -24,7 +24,7 @@ Features:
 Repository:
 https://github.com/christianromo1/Backend-Authentication-System
 
-### Web Data Scraper 
+### News Article Data Scraper 
 Python web scraping framework that recursively crawls news websites and extracts structured article data for machine learning datasets. Built using Selenium browser automation, BeautifulSoup HTML parsing, and proxy-supported scraping pipelines.
 
 Technologies: 
@@ -34,7 +34,7 @@ Technologies:
 - Requests
 - Streamlit
 
-Repository: https://github.com/christianromo1/Web-Data-Scraper
+Repository: https://github.com/christianromo1/News-Article-Data-Scraper
 
 ---
 
