@@ -1,15 +1,20 @@
 # Christian Romo
 
-Cybersecurity student at Loyola University Chicago pursuing a career in Security Operations and Threat Detection.
+Aspiring Cybersecurity Analyst and IT Professional — B.S. in Cybersecurity, CompTIA Security+ certified, CCNA in progress
 
-CompTIA Security+ certified with hands-on experience in network traffic analysis, vulnerability testing, and digital forensics through labs, CTF competitions, and security training platforms.
+## About 
+Hi! Nice to meet you! I'm a first-generation graduate of Loyola University Chicago with a B.S. in Cybersecurity, a minor in Computer Crime & Forensics, and CompTIA Security+ certification. I'm currently pursuing my CCNA and working through CodePath's Intermediate Cybersecurity course to deepen my networking knowledge and build blue-team fundamentals with SIEM systems. Five years in customer-facing roles sharpened skills such as clear communication, quick problem-solving, adaptability, and close attention to detail; skills I've since applied to network analysis, digital forensics, and penetration testing through coursework, labs, and competition. I have multiple top-percentile rankings across 3 consecutive National Cyber League seasons, including a Top 7% national finish in Network Traffic Analysis. I've completed consecutive MetaCTF flash CTFs and worked through TryHackMe's Junior Penetration Tester and SOC Level 1 paths.
 
-Planning on building cybersecurity projects focused on:
-- Network traffic analysis
-- SOC investigation workflows
-- Vulnerability scanning and exploitation labs
-- Security automation with Python
+What draws me to this field is my burning curiosity: a setting where investigation and analytical thinking matter, and the process of digging into how a threat or system works and engineering solutions around it. I'm looking forward to bringing my skills and mindset to a Cybersecurity Analyst or Professional IT role where I can help protect the systems and data people depend on.
 
+
+## Projects
+- 
+
+## Check out my Cybersecurity Blogs!
+- 
+
+## (Under Construction)
 ## Featured Projects
 
 ### Backend Authentication System
