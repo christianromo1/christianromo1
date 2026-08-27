@@ -9,10 +9,16 @@ What draws me to this field is my burning curiosity: a setting where investigati
 
 
 ## Projects
-- 
+- Cybersecurity Policies, Procedures and Best Practices
+- Risk Assesment Project
+- Network Infrastructure and Security Design
+- Packet Analysis Project
+- Configuring Snort (IPS/IDS) Detection Rules
 
 ## Check out my Cybersecurity Blogs!
-- 
+- Valentine CTF - TryHackMe Writeup
+- IAM as the New Perimeter in Cybersecurity
+- IAM Failure Case Study
 
 ## (Under Construction)
 ## Featured Projects
