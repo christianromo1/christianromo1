@@ -14,6 +14,7 @@ What draws me to this field is my burning curiosity: a setting where investigati
 - Network Infrastructure and Security Design
 - Packet Analysis Project
 - Configuring Snort (IPS/IDS) Detection Rules
+- Network Design and Security Recommendations
 
 ## Check out my Cybersecurity Blogs!
 - Valentine CTF - TryHackMe Writeup
