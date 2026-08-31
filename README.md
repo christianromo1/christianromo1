@@ -12,7 +12,8 @@ What draws me to this field is my burning curiosity: a setting where investigati
 - Switched into Cybersecurity major at Loyola University Chicago
 
 2024
-- Completed Computer Security, Networks, and Operating Systems coursework; competed in my first National Cyber League challenge  
+- Completed Computer Security, Networks, and Operating Systems coursework
+- Competed in my first National Cyber League challenge  
 
 2025
 - Completed advanced coursework in Intrusion Detection & Security, Network Security, and Computer Forensics  
