@@ -10,12 +10,16 @@ What draws me to this field is my burning curiosity: a setting where investigati
 ## Learning Path
 2022
 - B.S. in Cybersecurity — Loyola University Chicago  
+
 2024
 - Completed Computer Security, Networks, and Operating Systems coursework; competed in my first National Cyber League challenge  
+
 2025
-- Completed advanced coursework in Intrusion Detection & Security, Network Security, and Computer Forensics
-2026  
-- Earned CompTIA Security+ certification and graduated from Loyola University Chicago with a B.S. in Cybersecurity and a minor in Computer Crime and Forensics
+- Completed advanced coursework in Intrusion Detection & Security, Network Security, and Computer Forensics  
+
+2026
+- Earned CompTIA Security+ certification and graduated from Loyola University Chicago with a B.S. in Cybersecurity and a minor in Computer Crime and Forensics  
+
 What's Next?  
 - Cisco Certified Network Associate (CCNA) — to be completed by October 2026
 - CodePath Intermediate Cybersecurity Course Certificate — to be completed by November 2026
