@@ -8,19 +8,20 @@ Hi! Nice to meet you—I'm a first-generation graduate of Loyola University Chic
 What draws me to this field is my burning curiosity: a setting where investigation and analytical thinking matter, and the process of digging into how a threat or system works and engineering solutions around it. I'm looking forward to bringing my skills and mindset to a Cybersecurity Analyst or Professional IT role where I can help protect the systems and data people depend on.
 
 ## Learning Path
-# 2022
+2022
 - B.S. in Cybersecurity — Loyola University Chicago
-# 2024
+2024
 - Completed Computer Security, Networks, and Operating Systems coursework; competed in my first National Cyber League challenge 
-# 2025
+2025
 - Completed advanced coursework in Intrusion Detection & Security, Network Security, and Computer Forensics
-# 2026
+2026
 - Earned CompTIA Security+ certification and graduated from Loyola University Chicago with a B.S. in Cybersecurity and a minor in Computer Crime and Forensics
-# What's Next? 
+What's Next? 
 - Cisco Certified Network Associate (CCNA) — to be completed by October 2026
 - CodePath Intermediate Cybersecurity Course Certificate — to be completed by November 2026
 - AZ-900 Microsoft Azure Fundamentals — to be determined
 - Splunk Core Certification — to be determined
+
 
 ## Projects
 - Cybersecurity Policies, Procedures and Best Practices
