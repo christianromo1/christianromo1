@@ -19,7 +19,8 @@ What draws me to this field is my burning curiosity: a setting where investigati
 - Completed advanced coursework in Intrusion Detection & Security, Network Security, and Computer Forensics  
 
 2026
-- Earned CompTIA Security+ certification and graduated from Loyola University Chicago with a B.S. in Cybersecurity and a minor in Computer Crime and Forensics  
+- Completed CompTIA Security+ certification
+- Graduated from Loyola University Chicago with a B.S. in Cybersecurity and a minor in Computer Crime and Forensics  
 
 What's Next?  
 - Cisco Certified Network Associate (CCNA) — to be completed by October 2026
