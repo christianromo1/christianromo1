@@ -8,8 +8,8 @@ Hi! Nice to meet you—I'm a first-generation graduate of Loyola University Chic
 What draws me to this field is my burning curiosity: a setting where investigation and analytical thinking matter, and the process of digging into how a threat or system works and engineering solutions around it. I'm looking forward to bringing my skills and mindset to a Cybersecurity Analyst or Professional IT role where I can help protect the systems and data people depend on.
 
 ## Learning Path
-2022
-- B.S. in Cybersecurity — Loyola University Chicago  
+2023
+- Switched into Cybersecurity major at Loyola University Chicago
 
 2024
 - Completed Computer Security, Networks, and Operating Systems coursework; competed in my first National Cyber League challenge  
