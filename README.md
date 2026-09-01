@@ -42,7 +42,7 @@ What's Next?
 - IAM as the New Perimeter in Cybersecurity
 - IAM Failure Case Study
 
-## Featured Projects
+## Coding and Scripting Projects
 
 ### Backend Authentication System
 Secure authentication system built with **Node.js, Express, MongoDB, bcrypt, and JWT**.
