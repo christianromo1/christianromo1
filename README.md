@@ -42,7 +42,6 @@ What's Next?
 - IAM as the New Perimeter in Cybersecurity
 - IAM Failure Case Study
 
-## (Under Construction)
 ## Featured Projects
 
 ### Backend Authentication System
