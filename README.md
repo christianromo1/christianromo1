@@ -25,9 +25,7 @@ What draws me to this field is my burning curiosity: a setting where investigati
 What's Next?  
 - Cisco Certified Network Associate (CCNA) — to be completed by October 2026
 - CodePath Intermediate Cybersecurity Course Certificate — to be completed by November 2026
-- AZ-900 Microsoft Azure Fundamentals — to be determined
-- Splunk Core Certification — to be determined
-
+- Looking for Full-Time employment
 
 ## Projects
 - Cybersecurity Policies, Procedures and Best Practices
