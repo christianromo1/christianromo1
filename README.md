@@ -34,6 +34,7 @@ What's Next?
 - Packet Analysis Project
 - Configuring Snort (IPS/IDS) Detection Rules
 - Network Design and Security Recommendations
+- Troubleshooting DNS 
 
 ## Check out my Cybersecurity Blogs!
 - Valentine CTF - TryHackMe Writeup
