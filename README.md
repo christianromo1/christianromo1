@@ -17,12 +17,12 @@ What draws me to this field is its importance to the world. Cybersecurity protec
 - Cisco Certified Network Associate (CCNA) — to be completed by December 2026
 
 ## Projects
-- [Cybersecurity Policies, Procedures and Best Practices](https://github.com/christianromo1/Policies-Procedures-and-Best-Practices)
-- [Risk Assessment Project](https://github.com/christianromo1/network-risk-assessment)
 - [Packet Analysis Project](https://github.com/christianromo1/wireshark-pcap-network-forensics)
 - [Configuring Snort (IPS/IDS) Detection Rules](https://github.com/christianromo1/snort-ids-alert-analysis-and-custom-rules)
 - [Network Design and Security Recommendations](https://github.com/christianromo1/secure-infrastructure-design)
 - [Troubleshooting DNS](https://github.com/christianromo1/ccna-dns-troubleshooting-lab)
+- [Risk Assessment Project](https://github.com/christianromo1/network-risk-assessment)
+- [Cybersecurity Policies, Procedures and Best Practices](https://github.com/christianromo1/Policies-Procedures-and-Best-Practices)
 
 ## Check out my Cybersecurity Blogs!
 - [Valentine CTF - TryHackMe Writeup](https://github.com/christianromo1/security-writeups/tree/main/valentine-ctf-writeup)
