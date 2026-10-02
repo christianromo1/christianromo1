@@ -9,8 +9,7 @@ What draws me to this field is its importance to the world. Cybersecurity protec
 
 ## Credentials
 - B.S. in Cybersecurity and a minor in Computer Crime and Forensics
-- [CompTIA Security+](PASTE-YOUR-CREDLY-BADGE-LINK-HERE)
-- Top National Cyber League Challenger
+- [CompTIA Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/426b35dee4f1470280d5364759ccac1a)
 
 ## What's Next?
 - Looking for Full-Time employment
