@@ -17,8 +17,8 @@ What draws me to this field is its importance to the world. Cybersecurity protec
 - Cisco Certified Network Associate (CCNA) — to be completed by December 2026
 
 ## Projects
-- [Packet Analysis Project](https://github.com/christianromo1/wireshark-pcap-network-forensics)
 - [Configuring Snort (IPS/IDS) Detection Rules](https://github.com/christianromo1/snort-ids-alert-analysis-and-custom-rules)
+- [Packet Analysis Project](https://github.com/christianromo1/wireshark-pcap-network-forensics)
 - [Network Design and Security Recommendations](https://github.com/christianromo1/secure-infrastructure-design)
 - [Troubleshooting DNS](https://github.com/christianromo1/ccna-dns-troubleshooting-lab)
 - [Risk Assessment Project](https://github.com/christianromo1/network-risk-assessment)
