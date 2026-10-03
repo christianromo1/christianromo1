@@ -1,8 +1,6 @@
 # Christian Romo
 
-Aspiring Security Operations Analyst and IT Professional 
-
-B.S. in Cybersecurity, CompTIA Security+, CCNA in progress
+Aspiring Security Operations Analyst and IT Professional | B.S. in Cybersecurity, CompTIA Security+, CCNA in progress
 
 ## About
 Hello, nice to meet you! I'm a first-generation graduate of Loyola University Chicago with a B.S. in Cybersecurity, a minor in Computer Crime & Forensics, and CompTIA Security+ certification. I'm currently pursuing my CCNA and enrolled in CodePath's Intermediate Cybersecurity course to deepen my networking knowledge and build blue-team fundamentals with SIEM systems. Five years in customer-facing roles sharpened skills such as clear communication, quick problem-solving, adaptability, and close attention to detail; skills I've since applied to network analysis, digital forensics, and penetration testing through coursework, labs, and competition. I have multiple top-percentile rankings across 3 consecutive National Cyber League seasons, including a Top 6% national finish in Network Traffic Analysis. I've completed consecutive MetaCTF flash CTFs and worked through TryHackMe's Junior Penetration Tester and SOC Level 1 paths.
@@ -15,8 +13,8 @@ What draws me to this field is its importance to the world. Cybersecurity protec
 
 ## What's Next?
 - Looking for Full-Time employment
-- CodePath Intermediate Cybersecurity Course Certificate — to be completed by November 2026
-- Cisco Certified Network Associate (CCNA) — to be completed by December 2026
+- CodePath Intermediate Cybersecurity Course Certificate | to be completed by November 2026
+- Cisco Certified Network Associate (CCNA) | to be completed by December 2026
 
 ## Projects
 - [Configuring Snort (IDS) Detection Rules](https://github.com/christianromo1/snort-ids-alert-analysis-and-custom-rules)
